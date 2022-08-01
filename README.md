@@ -1,1 +1,1 @@
-# SNY
+cd ALDYR
